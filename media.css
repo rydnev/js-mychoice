@@ -1,0 +1,132 @@
+
+@media (min-width:1600px) and (max-width:3000px)
+{
+	 
+	}
+
+@media (min-width:1000px) and (max-width: 1300px) {
+  
+ 
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	.nav-bar-0 {
+		line-height: 90px;
+		margin: auto;
+		width: 750px;
+		height: 90px;
+	}
+	#mymenu {
+		position: absolute;
+		top: 45px;
+		left: 0px;
+		right: 0px;
+		width: 750px;
+	}
+	.menu ul li {
+
+	}
+	.p-next{
+		margin-bottom: 150px;
+	}
+	.container {
+		padding-right: 50px;
+	}
+	div.sect1-1 {
+		padding-right: 15px;
+	}
+	div.sect1-2 {
+		padding-left: 15px;
+	}
+}
+
+@media (max-width: 767px) {
+	#section0 {
+		/*background: #ccc;*/
+	}
+	#section1 {
+		/*background: #ccc;*/
+	}
+	.nav-bar-0 {
+		line-height: 90px;
+		margin: auto;
+		width: 100%;
+		height: 90px;
+		padding: 0px 30px;
+	}
+	#mymenu {
+		width: 170px;
+		margin: 2px auto;
+		left: 0px;
+		right: 0px;
+		top: 29px;
+		position: absolute;
+	}
+	.menu ul {
+		line-height: 2;
+	}
+	.menu ul li {
+		background-color: #3b3d40;
+		display: block;
+		margin-right: 0px;
+		text-align: center;
+		padding: 5px 5px 5px 5px;
+	}
+	.container {
+		width: 95%;
+	}
+	.sect0-block {
+		width: 100%;
+		text-align: center;
+	}
+	#vision {
+		visibility: hidden;
+	}
+	.sect0-link a {
+		margin: 0px auto;
+	}
+	div.sect1-1 {
+		padding-right: 0px;
+	}
+	div.sect1-2 {
+		margin-top: 60px;
+		padding-left: 0px;
+	}
+	.sect1-link-1 {
+		margin-bottom: 30px;
+	}
+	h1 {
+		text-align: center;
+	}
+	#section2 img {
+		margin: 0px auto;
+		width: 50%;
+		height: auto;
+	}
+	div.sect2-block {
+		text-align: center;
+	}
+	div.button-courses a {
+		margin: 0px auto;
+	}
+	#s2-o {
+		margin-top: 60px;
+	}
+	#section3 .attachment-post-thumbnail {
+		margin: 0px auto;
+		width: 50%;
+		height: auto;
+	}
+	div.name-teen {
+		margin-top: 30px;
+	}
+	div.line-teen {
+		margin: 0px auto;
+		display: block;
+	}
+	.comment {
+		margin-top: 30px;
+	}
+}
